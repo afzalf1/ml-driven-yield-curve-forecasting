@@ -31,7 +31,7 @@ This notebook demonstrates a pipeline that cleans GLC spot-curve Excel files, en
   - Time series per maturity
 
 ---
-
+```
 ## Project structure
 ML-Driven-yield-curve-forecasting/
 ├── ML-Driven yield curve forecasting.ipynb # main notebook (this project)
@@ -41,3 +41,4 @@ ML-Driven-yield-curve-forecasting/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+```
