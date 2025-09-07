@@ -1,5 +1,5 @@
 # ml-driven-yield-curve-forecasting
-**Forecast yield curves using ML + a smooth yield surface.**  
+**Forecast yield curves using ML
 This notebook demonstrates a pipeline that cleans GLC spot-curve Excel files, engineers lagged + rolling features and PDE-like surface derivatives, fits Ridge / Random Forest / XGBoost models, and performs iterative multi-day forecasting while updating features with previous predictions.
 
 ---
