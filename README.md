@@ -4,7 +4,7 @@ This notebook demonstrates a pipeline that cleans GLC spot-curve Excel files, en
 
 ---
 
-## Highlights / What I did
+## Summary
 - Loaded and combined two Excel data files (spot-curve sheet `"4. spot curve"`).
 - Transformed data to long format (Time, Maturity, Rate) and sorted chronologically.
 - Modeled a smooth bivariate surface `Rate = f(time, maturity)` using `SmoothBivariateSpline`.
